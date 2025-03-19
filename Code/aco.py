@@ -171,5 +171,5 @@ print(f"Tổng thời gian: {best_length:.2f}")
 num_vehicles = len(best_solution)  # Số lượng xe (tuyến đường)
 num_routes = num_vehicles  # Vì mỗi tuyến ứng với một xe
 
-print(f"Số lượng xe: {num_vehicles}")
+print(f"Số lượng xe: {num_vehicles}")  # in so luog xe 
 print(f"Số lượng tuyến đường: {num_routes}")
